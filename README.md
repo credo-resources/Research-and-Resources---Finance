@@ -17,27 +17,10 @@ Part 1: MONEY
 
 (Why high income ≠ rich, balance sheets, how people fool themselves.)
 
-5. Why do most people stay broke?
-(Lifestyle inflation, consumer traps, bad incentives, psychology.)
 
 
-Part 2: CONTROL
 
-
-1. Personal Finance Systems
-(Budgeting, cash flow, emergency funds, structure.)
-
-2. Banking, Credit, and Interest
-(How banks work, credit cards, loans, interest as a weapon.)
-
-3. Risk and Financial Safety
-(Insurance, downside protection, why one mistake wipes people out.)
-
-4. Time, Compounding, and Patience
-(Why time matters more than intelligence in finance.)
-
-
-Part 3: INVESTING FOUNDATIONS
+Part 2: INVESTING FOUNDATIONS
 
 
 1. What Investing Really Is
@@ -59,7 +42,7 @@ Part 3: INVESTING FOUNDATIONS
 (Asset allocation, diversification, time horizons.)
 
 
-Part 4: DEBT, LEVERAGE, AND REAL ASSETS 
+Part 3: DEBT, LEVERAGE, AND REAL ASSETS 
 
 
 
@@ -79,7 +62,7 @@ Why income assets change behavior.
 Overleverage, bad math, optimism.
 
 
-Part 5: BUSINESS & OWNERSHIP
+Part 4: BUSINESS & OWNERSHIP
 
 
 
@@ -99,7 +82,7 @@ Part 5: BUSINESS & OWNERSHIP
 (Where to put money once you actually have it.)
 
 
-Part 6: GENERATIONAL WEALTH
+Part 5: GENERATIONAL WEALTH
 
 
 
